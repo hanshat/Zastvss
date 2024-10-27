@@ -3,7 +3,7 @@ let videoSources = [];
 
 // URLs of M3U playlists with identifiers
 const m3uUrls = [
-    { id: 'Iptvs', url:'https://raw.githubusercontent.com/hanshat/Iptvs/main/m3u' },
+    { id: 'Iptvs', url:'https://raw.githubusercontent.com/stein-dev/iptvs/main/aesport-channels.m3u8' },
     // Add more sources here with unique IDs
 ];
 // Function to check if the channel is online
