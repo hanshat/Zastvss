@@ -3,7 +3,7 @@ let videoSources = [];
 
 // URLs of M3U playlists with identifiers
 const m3uUrls = [
-    { id: 'MyFreeview', url: 'https://raw.githubusercontent.com/stein-dev/iptvs/main/aesport-channels.m3u8' },
+    { id: 'iptvs', url: 'https://raw.githubusercontent.com/stein-dev/iptvs/main/aesport-channels.m3u8' },
     { id: 'iptvs', url: 'https://raw.githubusercontent.com/stein-dev/iptvs/main/dlhd-events.m3u8' },
     // Add more sources here with unique IDs
 ];
