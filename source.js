@@ -5,6 +5,7 @@ let videoSources = [];
 const m3uUrls = [
     { id: 'iptvs', url: 'https://raw.githubusercontent.com/stein-dev/iptvs/main/aesport-channels.m3u8' },
     { id: 'iptvs', url: 'https://raw.githubusercontent.com/stein-dev/iptvs/main/dlhd-events.m3u8' },
+    { id: 'iptvs', url: 'https://raw.githubusercontents.com/stein-dev/iptvs/main/sportslive-channels.m3u8' },
     // Add more sources here with unique IDs
 ];
 // Function to check if the channel is online
